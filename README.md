@@ -1,2 +1,2 @@
-# dicee_flutter
-Las Vegas dicee flutter project
+# Dicee
+Las Vegas dicee flutter application
