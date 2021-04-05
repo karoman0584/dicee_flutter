@@ -1,6 +1,5 @@
 # Dicee
-
-Las Vegas dicee flutter application
+Las Vegas dicee flutter application using Android Studio
 
 ## What you will create
 
